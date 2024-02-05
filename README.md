@@ -1,0 +1,2 @@
+# Breast Cancer Classification
+ This project addresses the critical need for early breast cancer detection using histopathological images. The goal is to develop an accurate breast cancer classifier, named CancerNet, utilizing Convolutional Neural Networks (CNNs) on the IDC dataset. The project aims to contribute to medical advancements by providing an AI solution for identifying cancerous patients, thus improving prognosis and treatment outcomes.
